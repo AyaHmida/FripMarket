@@ -1,0 +1,6 @@
+@FripMarket.API_HostAddress = http://localhost:5298
+
+GET {{FripMarket.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

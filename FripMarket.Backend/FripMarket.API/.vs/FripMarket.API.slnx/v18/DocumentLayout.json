@@ -1,0 +1,444 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Infrastructure\\Persistence\\Migrations\\20261116154037_AddUsersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3992327-0362-4285-BA28-CBA8A7344FF5}|..\\FripMarket.Infrastructure\\FripMarket.Infrastructure.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3992327-0362-4285-BA28-CBA8A7344FF5}|..\\FripMarket.Infrastructure\\FripMarket.Infrastructure.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.infrastructure\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0461F1-071F-41EA-81C4-EBE6042C0645}|..\\FripMarket.Domain\\FripMarket.Domain.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.domain\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0461F1-071F-41EA-81C4-EBE6042C0645}|..\\FripMarket.Domain\\FripMarket.Domain.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.domain\\enums\\accountstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0461F1-071F-41EA-81C4-EBE6042C0645}|..\\FripMarket.Domain\\FripMarket.Domain.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3992327-0362-4285-BA28-CBA8A7344FF5}|..\\FripMarket.Infrastructure\\FripMarket.Infrastructure.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.infrastructure\\persistence\\migrations\\20261116152350_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E4BDE8-982D-44D7-AECB-153048A16958}|FripMarket.API.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.api\\fripmarket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A3E4BDE8-982D-44D7-AECB-153048A16958}|FripMarket.API.csproj|solutionrelative:fripmarket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E4BDE8-982D-44D7-AECB-153048A16958}|FripMarket.API.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E4BDE8-982D-44D7-AECB-153048A16958}|FripMarket.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E4BDE8-982D-44D7-AECB-153048A16958}|FripMarket.API.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3E4BDE8-982D-44D7-AECB-153048A16958}|FripMarket.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E4BDE8-982D-44D7-AECB-153048A16958}|FripMarket.API.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E4BDE8-982D-44D7-AECB-153048A16958}|FripMarket.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3992327-0362-4285-BA28-CBA8A7344FF5}|..\\FripMarket.Infrastructure\\FripMarket.Infrastructure.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.infrastructure\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3992327-0362-4285-BA28-CBA8A7344FF5}|..\\FripMarket.Infrastructure\\FripMarket.Infrastructure.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6103BCF8-1C38-40AC-9E4F-C68DFDE1BA9D}|..\\FripMarket.Application\\FripMarket.Application.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6103BCF8-1C38-40AC-9E4F-C68DFDE1BA9D}|..\\FripMarket.Application\\FripMarket.Application.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.application\\interfaces\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6103BCF8-1C38-40AC-9E4F-C68DFDE1BA9D}|..\\FripMarket.Application\\FripMarket.Application.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.application\\dtos\\auth\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6103BCF8-1C38-40AC-9E4F-C68DFDE1BA9D}|..\\FripMarket.Application\\FripMarket.Application.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.application\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0461F1-071F-41EA-81C4-EBE6042C0645}|..\\FripMarket.Domain\\FripMarket.Domain.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.domain\\entites\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0461F1-071F-41EA-81C4-EBE6042C0645}|..\\FripMarket.Domain\\FripMarket.Domain.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.domain\\entites\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6103BCF8-1C38-40AC-9E4F-C68DFDE1BA9D}|..\\FripMarket.Application\\FripMarket.Application.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.application\\fripmarket.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3992327-0362-4285-BA28-CBA8A7344FF5}|..\\FripMarket.Infrastructure\\FripMarket.Infrastructure.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.infrastructure\\fripmarket.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202C1C63-67BD-4721-A56E-93914CEB1853}|..\\FripMarket.Tests\\FripMarket.Tests.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.tests\\fripmarket.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202C1C63-67BD-4721-A56E-93914CEB1853}|..\\FripMarket.Tests\\FripMarket.Tests.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3992327-0362-4285-BA28-CBA8A7344FF5}|..\\FripMarket.Infrastructure\\FripMarket.Infrastructure.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6103BCF8-1C38-40AC-9E4F-C68DFDE1BA9D}|..\\FripMarket.Application\\FripMarket.Application.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0461F1-071F-41EA-81C4-EBE6042C0645}|..\\FripMarket.Domain\\FripMarket.Domain.csproj|c:\\users\\user\\desktop\\fripmarket\\fripmarket.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20261116154037_AddUsersTable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Infrastructure\\Persistence\\Migrations\\20261116154037_AddUsersTable.cs",
+              "RelativeDocumentMoniker": "..\\FripMarket.Infrastructure\\Persistence\\Migrations\\20261116154037_AddUsersTable.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Infrastructure\\Persistence\\Migrations\\20261116154037_AddUsersTable.cs",
+              "RelativeToolTip": "..\\FripMarket.Infrastructure\\Persistence\\Migrations\\20261116154037_AddUsersTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T15:40:38.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\FripMarket.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "..\\FripMarket.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T15:37:35.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountStatus.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Domain\\Enums\\AccountStatus.cs",
+              "RelativeDocumentMoniker": "..\\FripMarket.Domain\\Enums\\AccountStatus.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Domain\\Enums\\AccountStatus.cs",
+              "RelativeToolTip": "..\\FripMarket.Domain\\Enums\\AccountStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T15:34:40.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\FripMarket.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "..\\FripMarket.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T15:34:08.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\FripMarket.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "..\\FripMarket.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:19:02.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20261116152350_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Infrastructure\\Persistence\\Migrations\\20261116152350_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\FripMarket.Infrastructure\\Persistence\\Migrations\\20261116152350_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Infrastructure\\Persistence\\Migrations\\20261116152350_InitialCreate.cs",
+              "RelativeToolTip": "..\\FripMarket.Infrastructure\\Persistence\\Migrations\\20261116152350_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T15:23:51.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FripMarket.API",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.API\\FripMarket.API.csproj",
+              "RelativeDocumentMoniker": "FripMarket.API.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.API\\FripMarket.API.csproj",
+              "RelativeToolTip": "FripMarket.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-16T13:36:14.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Domain\\Entites\\User.cs",
+              "RelativeDocumentMoniker": "..\\FripMarket.Domain\\Entites\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Domain\\Entites\\User.cs",
+              "RelativeToolTip": "..\\FripMarket.Domain\\Entites\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:15:03.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:49:16.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-16T14:44:22.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:19:55.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Infrastructure\\Services\\PasswordService.cs",
+              "RelativeDocumentMoniker": "..\\FripMarket.Infrastructure\\Services\\PasswordService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Infrastructure\\Services\\PasswordService.cs",
+              "RelativeToolTip": "..\\FripMarket.Infrastructure\\Services\\PasswordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:18:45.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\FripMarket.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\FripMarket.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:18:31.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\FripMarket.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "..\\FripMarket.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:17:36.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Application\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\FripMarket.Application\\Interfaces\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Application\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeToolTip": "..\\FripMarket.Application\\Interfaces\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:17:19.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Application\\DTOs\\Auth\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "..\\FripMarket.Application\\DTOs\\Auth\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Application\\DTOs\\Auth\\LoginResponse.cs",
+              "RelativeToolTip": "..\\FripMarket.Application\\DTOs\\Auth\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:16:32.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Application\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "..\\FripMarket.Application\\DTOs\\Auth\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Application\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "..\\FripMarket.Application\\DTOs\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:16:18.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FripMarket.Application",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Application\\FripMarket.Application.csproj",
+              "RelativeDocumentMoniker": "..\\FripMarket.Application\\FripMarket.Application.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Application\\FripMarket.Application.csproj",
+              "RelativeToolTip": "..\\FripMarket.Application\\FripMarket.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-16T13:44:43.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Domain\\Entites\\UserRole.cs",
+              "RelativeDocumentMoniker": "..\\FripMarket.Domain\\Entites\\UserRole.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Domain\\Entites\\UserRole.cs",
+              "RelativeToolTip": "..\\FripMarket.Domain\\Entites\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:15:37.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Domain\\Entites\\Role.cs",
+              "RelativeDocumentMoniker": "..\\FripMarket.Domain\\Entites\\Role.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Domain\\Entites\\Role.cs",
+              "RelativeToolTip": "..\\FripMarket.Domain\\Entites\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T14:15:24.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FripMarket.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Infrastructure\\FripMarket.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\FripMarket.Infrastructure\\FripMarket.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Infrastructure\\FripMarket.Infrastructure.csproj",
+              "RelativeToolTip": "..\\FripMarket.Infrastructure\\FripMarket.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-16T13:43:57.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FripMarket.Tests",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Tests\\FripMarket.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\FripMarket.Tests\\FripMarket.Tests.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Tests\\FripMarket.Tests.csproj",
+              "RelativeToolTip": "..\\FripMarket.Tests\\FripMarket.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-16T13:39:18.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\FripMarket.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\FripMarket.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T13:23:16.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\FripMarket.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "..\\FripMarket.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T13:21:45.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\FripMarket.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Application\\Class1.cs",
+              "RelativeToolTip": "..\\FripMarket.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T13:21:16.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\FripMarket.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Domain\\Class1.cs",
+              "RelativeToolTip": "..\\FripMarket.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T13:20:39.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

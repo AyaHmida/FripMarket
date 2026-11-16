@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\FripMarket\FripMarket.Domain\bin\Debug\net10.0\FripMarket.Domain.deps.json
+C:\Users\User\Desktop\FripMarket\FripMarket.Domain\bin\Debug\net10.0\FripMarket.Domain.dll
+C:\Users\User\Desktop\FripMarket\FripMarket.Domain\bin\Debug\net10.0\FripMarket.Domain.pdb
+C:\Users\User\Desktop\FripMarket\FripMarket.Domain\obj\Debug\net10.0\FripMarket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FripMarket\FripMarket.Domain\obj\Debug\net10.0\FripMarket.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FripMarket\FripMarket.Domain\obj\Debug\net10.0\FripMarket.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\FripMarket\FripMarket.Domain\obj\Debug\net10.0\FripMarket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FripMarket\FripMarket.Domain\obj\Debug\net10.0\FripMarket.Domain.dll
+C:\Users\User\Desktop\FripMarket\FripMarket.Domain\obj\Debug\net10.0\refint\FripMarket.Domain.dll
+C:\Users\User\Desktop\FripMarket\FripMarket.Domain\obj\Debug\net10.0\FripMarket.Domain.pdb
+C:\Users\User\Desktop\FripMarket\FripMarket.Domain\obj\Debug\net10.0\ref\FripMarket.Domain.dll
+C:\Users\User\Desktop\FripMarket\FripMarket.Domain\obj\Debug\net10.0\FripMarket.Domain.csproj.AssemblyReference.cache
