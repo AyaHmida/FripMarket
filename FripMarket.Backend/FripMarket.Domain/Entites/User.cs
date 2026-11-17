@@ -6,6 +6,7 @@ namespace FripMarket.Domain.Entites
 {
 
     using FripMarket.Domain.Common;
+    using FripMarket.Domain.Entities;
     using FripMarket.Domain.Enums;
 
 
@@ -29,6 +30,8 @@ namespace FripMarket.Domain.Entites
 
         public AccountStatus AccountStatus { get; set; } =
             AccountStatus.Active;
+        public ICollection<UserRole> UserRoles { get; set; }
+    = new List<UserRole>();
     }
 
 }

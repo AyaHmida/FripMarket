@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FripMarket.API/FripMarket.API.csproj" />
+  <Project Path="FripMarket.Application/FripMarket.Application.csproj" />
+  <Project Path="FripMarket.Domain/FripMarket.Domain.csproj" />
+  <Project Path="FripMarket.Infrastructure/FripMarket.Infrastructure.csproj" />
+</Solution>

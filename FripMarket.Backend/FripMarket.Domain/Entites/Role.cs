@@ -1,10 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
+using FripMarket.Domain.Common;
+using FripMarket.Domain.Entites;
 
-namespace FripMarket.Domain.Entites
+namespace FripMarket.Domain.Entities;
+
+public class Role : BaseEntity
 {
-    internal class Role
-    {
-    }
+    public string Name { get; set; } = string.Empty;
+
+    public string? Description { get; set; }
+
+    public ICollection<UserRole> UserRoles { get; set; }
+        = new List<UserRole>();
 }

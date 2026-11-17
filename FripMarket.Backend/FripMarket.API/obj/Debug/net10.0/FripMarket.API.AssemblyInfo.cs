@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("2715704b-b7ce-4fc6-96e6-d46af08e641c")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("FripMarket.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5934e62e016f740df2ee0eddb27eda89a7239f09")]
 [assembly: System.Reflection.AssemblyProductAttribute("FripMarket.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FripMarket.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

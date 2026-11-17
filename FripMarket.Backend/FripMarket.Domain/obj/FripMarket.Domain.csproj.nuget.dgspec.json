@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Domain\\FripMarket.Domain.csproj": {}
+    "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Backend\\FripMarket.Domain\\FripMarket.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Domain\\FripMarket.Domain.csproj": {
+    "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Backend\\FripMarket.Domain\\FripMarket.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Domain\\FripMarket.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Backend\\FripMarket.Domain\\FripMarket.Domain.csproj",
         "projectName": "FripMarket.Domain",
-        "projectPath": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Domain\\FripMarket.Domain.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Backend\\FripMarket.Domain\\FripMarket.Domain.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Domain\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\FripMarket\\FripMarket.Backend\\FripMarket.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
